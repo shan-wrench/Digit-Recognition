@@ -8,8 +8,4 @@ Evaluation: Provides performance metrics such as accuracy, precision, recall, an
 Visualization: Includes visualizations of training progress and sample predictions.
 
 # Requirements
-Python 3.12
-TensorFlow
-NumPy
-Matplotlib
-
+Python 3.12 , TensorFlow , NumPy , Matplotlib
